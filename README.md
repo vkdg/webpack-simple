@@ -20,4 +20,5 @@ npm run build
 * SASS Support via [sass-loader](https://github.com/jtangelder/sass-loader)
 * Autoprefixer via [postcss-loader](https://github.com/postcss/postcss-loader)
 * Uglify via [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin)
+* JQuery Support via [jquery](https://www.npmjs.com/package/jquery)
 * Font Face fix

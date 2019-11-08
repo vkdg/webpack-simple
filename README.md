@@ -25,6 +25,7 @@ npm run build
 
 
 ### Working Structure
+```
 | dist
 | - css
 | - - main.css
@@ -42,3 +43,4 @@ npm run build
 | index.htm
 | package.json
 | webpack.config.js
+```

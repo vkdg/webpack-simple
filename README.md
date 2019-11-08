@@ -1,4 +1,4 @@
-# webpack-simple
+# Webpack Simple
 Simple Webpack Build Template
 
 ### Installation 

@@ -1,11 +1,8 @@
-require('jquery');
-import { Unicorns } from "./js/unicorns.js";
-import "./scss/style.scss";
+// JS
+import './js/'
 
-const unicorns = new Unicorns();
+// SCSS
+import './assets/scss/main.scss'
 
-$(document).ready(function(){
-	window.$ = jQuery;
-
-	unicorns.hello();
-});
+// CSS (example)
+// import './assets/css/main.css'
